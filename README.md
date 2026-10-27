@@ -379,3 +379,7 @@ See the source code in `gesture_control.py` for detailed comments explaining eve
 Have fun controlling your Mac with hand gestures! Experiment with the tuning settings to find what works best for you.
 
 **Pro Tip**: The more you use it, the more natural the gestures will feel. Practice makes perfect! 🖐️
+
+## License
+
+The original program source and documentation are licensed under MIT; see [LICENSE](./LICENSE). The bundled `hand_landmarker.task` model is a separate third-party asset and is not covered by this license. Its applicable upstream terms remain in effect. Third-party Python packages also retain their own licenses.
